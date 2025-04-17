@@ -1,4 +1,5 @@
 # 🧠🍽️ GastroNote
+http://gastronote.guldskaerm.dk/
 
 **Turn your words into recipes.**
 
